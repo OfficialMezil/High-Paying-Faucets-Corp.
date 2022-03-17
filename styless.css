@@ -1,0 +1,53 @@
+
+body {
+  position: static;
+}
+
+hr{
+    padding: 0%;
+    margin: 0%;
+}
+
+/* TITLE */
+.head-img{
+ margin: 0%;
+}
+
+/* Feature */
+.feature{
+    text-align: center;
+}
+span{
+    text-decoration: underline;
+}
+
+#feature{
+    padding: 3.5% 10%;
+    text-align: center;
+}
+
+
+.feature-box{
+    text-align: center;
+    padding: 1.5% 20%;
+    font-size: 25px;
+    line-height: 1.5;
+}
+
+.btn{
+    color: white;
+}
+
+#footer{
+    text-align: center;
+    background-color: palevioletred;
+    font-size: 15px;
+    color: white;
+}
+
+#fot{
+    text-align: left;
+    padding: 15px;
+    color: white
+}
+
